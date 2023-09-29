@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoint1
+  - Checkpoint2
+  - Checkpoint3
+  - Checkpoint4
+  - Checkpoint5
+  - Checkpoint6
+  - Checkpoint7
+  - Checkpoint8
+  - Checkpoint9
+  - Checkpoint10
+  - Checkpoint11
+  - Checkpoint12
+  - Checkpoint13
+  - Checkpoint14
+  - Checkpoint15
+  - Checkpoint16
+  - Checkpoint17
+  - Checkpoint18
+  - Checkpoint19
+  - Checkpoint20
+  - Checkpoint21
+  - Checkpoint22
+  - Checkpoint23
+  - Checkpoint24
+  - Checkpoint25
+  - Checkpoint26
+  - Checkpoint27
+  - Checkpoint28
+  - Checkpoint29
+  - Checkpoint30
+  - Checkpoint31
+  - Checkpoint32
+  - Checkpoint33
+  - Checkpoint34
+  - Checkpoint35
+  - Checkpoint36
+  - Checkpoint37
+  - Checkpoint38
+  - Checkpoint39
+  - Checkpoint40
+  - Checkpoint41
+  - Checkpoint42
+  - Checkpoint43
+  - Checkpoint44
+  - Checkpoint45
+  - Checkpoint46
+  - Checkpoint47
+  - Checkpoint48
+  - Checkpoint49
+  - Checkpoint50
+  - Checkpoint51
+  - Checkpoint52
+  - Checkpoint53
+  - Checkpoint54
+  - Checkpoint55
+  - Checkpoint56
+  - Checkpoint57
+  - Checkpoint58
+  - Checkpoint59
+  - Checkpoint60
+  - Checkpoint61
+  - Checkpoint62
+  - Checkpoint63
+  - Checkpoint64
+  - Checkpoint65
+  - Checkpoint66
+  - Checkpoint67
+  - Checkpoint68
+  - Checkpoint69
+  - Checkpoint70
+  - Checkpoint71
+  - Checkpoint72
+  - Checkpoint73
+  - Checkpoint74
+  - Checkpoint75
+  - Checkpoint76
+  - Checkpoint77
+  - Checkpoint78
+  - Checkpoint79
+  - Checkpoint80
+  - Checkpoint81
+  - Wall
+  - Checkpoint82
+  - Checkpoint83
+  - Checkpoint84
+  - Checkpoint85
+  - Checkpoint86
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Car1
+  - Car2
+  - Car3
+  - Car4
+  - Car5
+  - Car6
+  - Car7
+  - Car8
+  - Car9
+  - Car10
+  - Car11
+  - Car12
+  - Car13
+  - Car14
+  - Car15
+  - Car16
+  - Car17
+  - Car18
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
